@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932182431521",
+    "project_id": "testauth-df1a9",
+    "storage_bucket": "testauth-df1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932182431521:android:6333762b09a9c4e1755060",
+        "android_client_info": {
+          "package_name": "com.example.test50505050"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhgf5_TMWQnu2q5cU7cMBrIT6thZXOFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932182431521:android:389b09c5a4af054a755060",
+        "android_client_info": {
+          "package_name": "com.example.testface"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhgf5_TMWQnu2q5cU7cMBrIT6thZXOFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
